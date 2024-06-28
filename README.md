@@ -6,7 +6,6 @@
 - estudando python para back, html,css e javascript para front
 - procuro sempre trabalhar em grupo, não tenho problemas de comunicação e sempre disposto a aprender.
 - meu email é jviclima9@gmail.com
-- 😄 Pronouns:ele/dele
 -
 - <div align="center">
   <a href="https://github.com/jvictor70">
